@@ -1,10 +1,10 @@
-package com.paes.delivery;
+package com.paes;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DeliveryEurekaServerApplicationTests {
+class CloudGatewayApplicationTests {
 
 	@Test
 	void contextLoads() {
